@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantchaos",
+  "version": "${version}",
+  "name": "Enchant Chaos",
+  "description": "Jump to add random enchantments to any item! Any enchantment, any level, maximum chaos!",
+  "authors": [
+    "YourName"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "MIT",
+  "icon": "assets/enchantchaos/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.enchantchaos.EnchantChaosMod"
+    ],
+    "client": [
+      "com.example.enchantchaos.EnchantChaosModClient"
+    ]
+  },
+  "mixins": [
+    "enchantchaos.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1"
+  }
+}
