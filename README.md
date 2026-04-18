@@ -19,6 +19,17 @@ A Minecraft Fabric 1.20.1 mod that adds random enchantments to ANY item when jum
 - **Purple** (§d): Levels 21-50
 - **Dark Purple** (§5): Levels 51-100
 
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### What the License Allows
+- ✅ **Free Use**: Use the mod for any purpose
+- ✅ **Modification**: Modify and customize the code
+- ✅ **Distribution**: Share and redistribute the mod
+- ✅ **Commercial Use**: Use in commercial projects
+- ⚠️ **No Warranty**: Standard disclaimer of liability
+
 ## Building the Mod
 
 ### Prerequisites
